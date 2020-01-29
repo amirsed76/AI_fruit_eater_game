@@ -1,0 +1,11 @@
+windowWidth 600
+windowHeight 800
+boardSize 12
+botCount 1
+cycleSleepTime 500
+initialFruitCount 3
+wallCount 5
+fruitGenerationProbability 0.4
+decisionTimeLimit 1000
+maxTurns 50
+writeLog 1
